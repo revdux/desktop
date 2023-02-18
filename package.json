@@ -1,0 +1,16 @@
+{
+  "name": "revdux-desktop",
+  "productName": "Revdux",
+  "version": "0.0.1-dev",
+  "main": "build/index.js",
+  "license": "AGPL-3.0",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.0",
+    "electron": "^23.1.0",
+    "typescript": "^4.9.5"
+  }
+}
